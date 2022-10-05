@@ -25,3 +25,12 @@ total=0
 for number in range(1,101):
     total += number
 print(total) #5050
+
+#While Loop -> loop will continue going while a particular condition is true
+
+number = 6
+while number > 0: #syntax
+    print(number)
+    number -= 1
+
+#risk with while loop is that they can run infinitely!!! in case the condition never becomes false
