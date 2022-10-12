@@ -1,5 +1,5 @@
 # py8
-Python Projects
+Repo for Python Projects
 
 Python Official Documentation -> https://docs.python.org/3/
 
